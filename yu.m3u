@@ -3,12 +3,20 @@
 
 #EXTINF:-1 ,group-title=“CCTV备用” ,CCTV-1蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-2蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-3蓝光 
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1,group-title=“CCTV备用” ,CCTV-4蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 #EXTINF:-1,group-title=“CCTV备用” ,CCTV-5+蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 #EXTINF:-1 ,group-title=“CCTV备用”,CCTV-6蓝光 
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-7蓝光 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+#EXTINF:-1,group-title=“CCTV备用” ,CCTV-8蓝光 
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 #EXTINF:-1,group-title=“CCTV备用”,CCTV-9蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 ,group-title=“CCTV备用”,CCTV-10蓝光 
@@ -21,6 +29,8 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 ,group-title=“CCTV备用”,CCTV-12蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-13蓝光 
+http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 ,group-title=“CCTV备用”,CCTV-14蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 #EXTINF:-1 ,group-title=“CCTV备用”,CCTV-15蓝光 
@@ -288,7 +298,14 @@ http://aldirect.rtmp.huya.com/huyalive/29169025-2686220976-11537231241749200896-
 http://aldirect.rtmp.huya.com/huyalive/1099531752682-1099531752682-86435813105074176-2199063628820-10057-A-0-1_2500.m3u8
 #EXTINF:-1,group-title=“虎牙综艺”  ,老梁观世界
 http://aldirect.rtmp.huya.com/huyalive/1099531752683-1099531752683-86435817400041472-2199063628822-10057-A-0-1_2500.m3u8
-
+#EXTINF:-1 ,group-title=“新港澳台”,凤凰卫视资讯台 
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 ,group-title=“新港澳台”,凤凰卫视资讯台 
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+#EXTINF:-1,group-title=“新港澳台” ,凤凰卫视中文台 
+http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+#EXTINF:-1 ,group-title=“新港澳台”,凤凰卫视中文台 
+http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1,group-title=“新港澳台”, 台湾壹新闻
 https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 #EXTINF:-1,group-title=“新港澳台”, 香港23新闻台
@@ -339,64 +356,258 @@ https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8#https://cc
 #EXTINF:-1,group-title=“央视频”,CCTV15音乐
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 
-#EXTINF:-1,group-title=“个人收集电影”,电影ⅠCHC电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ周星驰经典轮播
-http://3954.liveplay.myqcloud.com/live/3954_382995145.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ【4K超清】七七陪你看电影!
-http://tx2play1.douyucdn.cn/live/925724reTf5A0oyK.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ粤语片成龙洪金宝再现港片经典[24h]
-https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181_mp4hd2v3.m3u8?title=%E7%B2%A4%E8%AF%AD%E7%89%87%E6%88%90%E9%BE%99%E6%B4%AA%E9%87%91%E5%AE%9D%E5%86%8D%E7%8E%B0%E6%B8%AF%E7%89%87%E7%BB%8F%E5%85%B8%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=7qmZFiyaOA4CAXMxZYEMc1YJ&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181&ccode=live05010101&expire=21600&psid=D83B141887E296F24BF75DC6B148E2E5&ups_client_netip=115.49.101.101&ups_ts=1585747910&ups_userid=0&utid=7qmZFiyaOA4CAXMxZYEMc1YJ&vid=8018617_8022912&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181_mp4hd2v3&vkey=B31d263b34b4a09599bd44c112420fc85
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ粤语【周星驰】【林正英】
-http://tx2play1.douyucdn.cn/live/5033502rWnRpioJO.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ豆宝陪看 高分电影直播间
-http://tx2play1.douyucdn.cn/live/8058642rnpW7SgfT.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ小饼 高分影视放映厅
-http://tx2play1.douyucdn.cn/live/1735337rTJDYynut.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ【不是动图的萌萌小鸭】陪你一起看鸭
-http://tx2play1.douyucdn.cn/live/7925840rMl7UmNpu.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ【香港赌片】喜剧、黑帮、动作、武侠、经典
-http://tx2play1.douyucdn.cn/live/315457ruOP2SGd6y.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ【s1134】经典 科幻 动作 灾难
-http://tx2play1.douyucdn.cn/live/248753re3yVCkP0H.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ经典 科幻 动作 灾难 巨兽
-http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ【周星驰】星爷 华语 经典 电影 神乐
-http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ【神乐】华语 经典 电影 刘德华 周星驰
-http://tx2play1.douyucdn.cn/live/85894rmovieChow.xs
-#EXTINF:-1,group-title=“个人收集电影”,奥斯卡经典电影精彩播不停[24h]
-https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-294-0324-0240-0088_mp4hd2v3.m3u8?title=%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E7%B2%BE%E5%BD%A9%E6%92%AD%E4%B8%8D%E5%81%9C%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=7qmZFiyaOA4CAXMxZYEMc1YJ&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-294-0324-0240-0088&ccode=live05010101&expire=21600&psid=3962FDD531B9090EAAB9DBE31DEF8DFC&ups_client_netip=115.49.101.101&ups_ts=1585747731&ups_userid=0&utid=7qmZFiyaOA4CAXMxZYEMc1YJ&vid=8018655_8022948&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-294-0324-0240-0088_mp4hd2v3&vkey=Be5bd6344c8b425b260da67e47014faa2
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ每晚悄悄话
-http://tx2play1.douyucdn.cn/live/6557037rnQ70MGFS.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ【贝爷影厅】经典 科幻 动作 灾难 巨兽
-http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ可乐 欧美 电影 科幻 经典 动作
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ你想看的这里都有！24小时
-http://3954.liveplay.myqcloud.com/live/3954_535854350.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ24小时 喜剧 经典电影
-http://3954.liveplay.myqcloud.com/live/3954_199681168.xs
-#EXTINF:-1,group-title=“个人收集电影”,电影Ⅰ【小鸽陪看】动作 枪战 华语 经典
-http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.xs
-#EXTINF:-1,group-title=“个人收集电影”,网剧Ⅰ【爱情公寓】全程爆笑
-http://3954.liveplay.myqcloud.com/live/3954_322842111.xs
-#EXTINF:-1 group-title='科普',荒野游侠记
-http://tx2play1.douyucdn.cn/live/2259748rEGRdA3Q7_4000.flv
-#EXTINF:-1 group-title='纪录片',冒险雷探长官方
-http://tx2play1.douyucdn.cn/live/5028934rMQkT7JBZ_4000.flv
-#EXTINF:-1 group-title='一起看',周杰伦颜老师
-http://tx2play1.douyucdn.cn/live/7537296r5gZT5jwR_4000.flv
-#EXTINF:-1 group-title='一起看',To一起去看喵mm
-http://tx2play1.douyucdn.cn/live/7603125rPVYpIAmV_4000.flv
-#EXTINF:-1 group-title='一起看',缘来是醉
-http://tx2play1.douyucdn.cn/live/7272018rtkB1WQIQ_4000.flv
-#EXTINF:-1 group-title='一起看',咦那是什么
-http://tx2play1.douyucdn.cn/live/231464rjqCxY4llZ_4000.flv
-#EXTINF:-1 group-title='一起看',爱丝寂寞人儿
-http://tx2play1.douyucdn.cn/live/8248741rUQLJdgN2_4000.flv
-#EXTINF:-1 group-title='一起看',我们可爱的程程
-http://tx2play1.douyucdn.cn/live/329667rVyd6kR9R9_4000.flv
-#EXTINF:-1 group-title='一起看',777帕青锅
-http://tx2play1.douyucdn.cn/live/222286rKhKuPC791_4000.flv
 
+
+#EXTINF:-1 ,group-title=“收集电影”,成   龙 
+http://aldirect.rtmp.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,吴   京 
+http://aldirect.rtmp.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,甄子丹 
+http://aldirect.rtmp.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,李连杰 
+http://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,周润发 
+http://aldirect.rtmp.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,周星驰 
+http://aldirect.rtmp.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,林正英 
+http://aldirect.rtmp.huya.com/src/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,刘德华 
+http://aldirect.rtmp.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,洪金宝 
+http://aldirect.rtmp.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,徐   峥 
+http://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,黄   渤 
+http://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,刘   涛 
+http://aldirect.rtmp.huya.com/src/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,王   晶 
+http://aldirect.rtmp.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,胡   军 
+http://aldirect.rtmp.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,唐国强 
+http://aldirect.rtmp.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,陈道明 
+http://aldirect.rtmp.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,苏有朋 
+http://aldirect.rtmp.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1,group-title=“收集电影” ,张卫健 
+http://aldirect.rtmp.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,陈小春 
+http://aldirect.rtmp.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+#EXTINF:-1,group-title=“收集电影” ,黄百鸣 
+http://aldirect.rtmp.huya.com/huyalive/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1.m3u8
+#EXTINF:-1,group-title=“收集电影” ,古天乐 
+http://aldirect.rtmp.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,郑伊健 
+http://aldirect.rtmp.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+#EXTINF:-1,group-title=“收集电影” ,陈浩民 
+http://aldirect.rtmp.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,李云龙 
+http://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,易中天 
+http://aldirect.rtmp.huya.com/backsrc/28466698-2689661800-11552009468300492800-3048991590-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,岳云鹏 
+http://aldirect.rtmp.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1.m3u8
+#EXTINF:-1,group-title=“收集电影” ,吴亦凡 
+http://aldirect.rtmp.huya.com/huyalive/29359996-2689638862-11551910950340657152-2847687568-10057-A-0-1.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,小品轮播 
+http://aldirect.rtmp.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
+#EXTINF:-1,group-title=“收集电影” ,BBC经典 
+http://qdntv96789.applinzi.com/96tv.php?633138330
+#EXTINF:-1,group-title=“收集电影” ,大愛1台 
+http://tv1.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 ,group-title=“收集电影”,大爱1台 
+http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
+#EXTINF:-1 ,group-title=“收集电影”,大爱2台 
+http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
+#EXTINF:-1 ,group-title=“收集电影”,中天新闻 
+http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+
+#EXTINF:-1  ,group-title=“视频”,贺岁影院 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+#EXTINF:-1  ,group-title=“视频”,票房大片 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+#EXTINF:-1  ,group-title=“视频”,欢乐剧场 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
+#EXTINF:-1  ,group-title=“视频”,惊悚午夜 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
+#EXTINF:-1  ,group-title=“视频”,动画电影 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+#EXTINF:-1 ,group-title=“视频” ,怀旧剧场 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+#EXTINF:-1  ,group-title=“视频”,温情影院 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
+#EXTINF:-1  ,group-title=“视频”,周末影院 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+#EXTINF:-1  ,group-title=“视频”,经典重温 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
+#EXTINF:-1  ,group-title=“视频”,谍战剧场 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1080p_t10/c16_lb_diezhanjuchang_1080p_t10.m3u8
+#EXTINF:-1 ,group-title=“视频” ,军旅剧场 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchang_1080p_t10.m3u8
+#EXTINF:-1 ,group-title=“视频” ,超清修复 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_longmenbiaoju_1080p_t10/c16_lb_longmenbiaoju_1080p_t10.m3u8
+#EXTINF:-1  ,group-title=“视频”,收视冠军 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
+#EXTINF:-1  ,group-title=“视频”,青春剧场 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
+#EXTINF:-1  ,group-title=“视频”,抗战剧场 
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
+
+
+#EXTINF:-1 ,group-title=“视频” ,奥林匹克高清 
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,group-title=“视频” ,奥铃匹克蓝光 
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#EXTINF:-1  ,group-title=“视频”,珠江卫视 
+http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
+#EXTINF:-1  ,group-title=“视频”,超级电影 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,超级综艺 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,超级体育 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,超级剧集 
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,中国功夫 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+#EXTINF:-1 ,group-title=“视频” ,金牌综艺 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,农业致富 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,潮妈辣婆 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,炫舞未来 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,明星大片 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,自由搏击 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
+#EXTINF:-1 ,group-title=“视频” ,海外综合 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,惊梀悬疑 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
+#EXTINF:-1 ,group-title=“视频” ,爱情喜剧 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
+#EXTINF:-1 ,group-title=“视频” ,精品记录 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
+#EXTINF:-1 ,group-title=“视频” ,精品体育 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,精品大剧 
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,古装剧场 
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+#EXTINF:-1 ,group-title=“视频” ,军旅剧场 
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,军事评论 
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+#EXTINF:-1 ,group-title=“视频” ,健康有约 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
+#EXTINF:-1 ,group-title=“视频” ,家庭剧场 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+#EXTINF:-1  ,group-title=“视频”,动作电影 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+#EXTINF:-1  ,group-title=“爱视频”,爱电竞 
+http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱动漫 
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱都市 
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱江湖 
+http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱解密 
+http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱经典 
+http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱军武 
+http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱科幻 
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱历史 
+http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱美食 
+http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1,group-title=“爱视频” ,爱奇谈 
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱时尚 
+http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱世界 
+http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱玩具 
+http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱喜剧 
+http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱悬疑 
+http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱幼教 
+http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱院线 
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,group-title=“爱视频”,爱青春 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+#EXTINF:-1,group-title=“爱视频” ,爱家庭 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+#EXTINF:-1,group-title=“爱视频” ,爱探索 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+#EXTINF:-1 ,group-title=“爱视频”,爱科学 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1,group-title=“爱视频” ,爱猎奇 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+#EXTINF:-1 ,group-title=“爱视频”,爱谍战 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1,group-title=“爱视频” ,爱娱乐 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+#EXTINF:-1 ,group-title=“爱视频”,爱旅行 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 ,group-title=“爱视频”,爱怀旧 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+#EXTINF:-1,group-title=“爱视频” ,爱体育 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+#EXTINF:-1 ,group-title=“爱视频”,爱赛车 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+#EXTINF:-1 ,group-title=“爱视频”,爱浪漫 
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
+#EXTINF:-1,group-title=“爱视频” ,求索纪录 
+http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1 ,group-title=“爱视频”,求索科学 
+http://125.210.152.18:9090/live/QSKX_1200.m3u8
+#EXTINF:-1 ,group-title=“爱视频”,求索动物 
+http://125.210.152.18:9090/live/QSDW_1200.m3u8
+#EXTINF:-1 ,group-title=“爱视频”,求索生活 
+http://125.210.152.18:9090/live/QSSH_1200.m3u8
+
+
+#EXTINF:-1,group-title=“蓝光视频”,蓝光影视1台
+http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视2台
+http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视3台
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视4台
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视5台
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 ,group-title=“蓝光视频”,蓝光影视6台
+http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视7台
+http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视8台
+http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视9台
+http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1 ,group-title=“蓝光视频”,蓝光影视10台
+http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视11台
+http://stream.guihet.com/migu/index.php?id=625542369
+#EXTINF:-1 ,group-title=“蓝光视频”,蓝光影视12台
+http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光动画13台
+http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光动画14台
+http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光动漫15台
+http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
+#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视16台
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
