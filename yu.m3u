@@ -285,8 +285,25 @@ http://al.rtmp.huya.com/backsrc/30765679-2523417522-10837995731143360512-2777068
 http://aldirect.rtmp.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1.m3u8
 #EXTINF:-1,group-title=“虎牙电影”  ,国产搞笑
 http://aldirect.rtmp.huya.com/backsrc/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1,group-title=“虎牙电影”  ,莫斯科陷落2
+https://us-4.wl-cdn.com/hls/20200318/4218bbae7d3eb97b9b2df9778a9981bd/index.m3u8
+#EXTINF:-1,group-title=“虎牙电影”  ,盖世俊杰
+https://us-5.wl-cdn.com/hls/20200429/a42cc4c53fde94599c0443a81a962c24/index.m3u8
+#EXTINF:-1,group-title=“虎牙电影”  ,降临
+https://cn1.5311444.com/hls/20181104/f82065456d5b52bb7ff93242e7c0c606/1541313485/index.m3u8
+#EXTINF:-1,group-title=“虎牙电影”  ,撒迦利亚
+https://cn3.download05.com/hls/20180929/70ea41ea1d5b36c84a81371c03e65293/1538194879/index.m3u8
 
-
+#EXTINF:-1,group-title=“经典咏流传”  ,1
+https://cn7.qxreader.com/hls/20200126/22baa49afc9e3bde87852e606f197f66/1580050705/index.m3u8
+#EXTINF:-1,group-title=“经典咏流传”  ,2
+https://cn7.qxreader.com/hls/20200127/71625dc96f0fc0b87fcc614ed5120d44/1580137040/index.m3u8
+#EXTINF:-1,group-title=“经典咏流传”  ,3
+https://us-3.wl-cdn.com/hls/20200216/19b40f170f8743ece91cfe7702175114/index.m3u8
+#EXTINF:-1,group-title=“经典咏流传”  ,4
+https://us8.wl-cdn.com/hls/20200223/c26db5bec4e440a8f61e3bad77527d1c/index.m3u8
+#EXTINF:-1,group-title=“经典咏流传”  ,5
+https://us8.wl-cdn.com/hls/20200301/2718faa2015b326b8b51849eb75a5ccd/index.m3u8
 
 
 
@@ -323,93 +340,8 @@ http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 #EXTINF:-1,group-title=“蓝光视频” ,蓝光影视16台
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
-#EXTINF:-1,group-title=“怒晴湘西” ,第1集
-https://cn4.5311444.com/hls/20190121/9009e96856604d301ceccab734627728/1548073407/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第2集
-https://cn4.5311444.com/hls/20190121/debc854487df873b12cb87c4c7927fbf/1548073696/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第3集
-https://cn4.5311444.com/hls/20190121/7d03c20486145b877d85661af700b423/1548074002/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第4集
-https://www.7639616.com/hls/20190121/ae8b4132b57f4d448660edd3d9014e1e/1548085991/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第5集
-https://www.7639616.com/hls/20190121/5ed2f6d1bb664bd5b3f02fd6b59c6c5f/1548086158/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第6集
-https://www.7639616.com/hls/20190121/6f1d970319dcaa76924610b291c90066/1548086317/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第7集
-https://cn3.sxylcy.cc/hls/20190128/720fed4d8f7b806a354353bffc506c65/1548677657/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第8集
-https://cn3.sxylcy.cc/hls/20190128/f5ecfb3422cc5f5c5b25ce8b2a8bcdb4/1548677862/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第9集
-https://cn3.sxylcy.cc/hls/20190128/c85b990a536550784af3a6ea912a229a/1548678044/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第10集
-https://cn3.sxylcy.cc/hls/20190204/916aac0c41f1ee788c54e5e01710dbfa/1549244351/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第11集
-https://cn3.sxylcy.cc/hls/20190204/e5770c6d9a9f51a1d5d80b76035bde98/1549244550/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第12集
-https://cn3.sxylcy.cc/hls/20190204/d3e35357cdcabddb18e1d9ec0bfc3f1f/1549244754/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第13集
-https://cn3.sxylcy.cc/hls/20190211/7152be4933aa2325715e6c20474cc0e1/1549892812/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第14集
-https://cn3.sxylcy.cc/hls/20190211/1813070a42b96e8246ffb0ff3d346361/1549893122/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第15集
-https://cn3.sxylcy.cc/hls/20190211/fdb4163299542a222bf32b9ae3d62dd3/1549893376/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第16集
-https://cn3.sxylcy.cc/hls/20190218/21f88b01ed5d89981dbcf8bdbaa5994c/1550491745/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第17集
-https://cn3.sxylcy.cc/hls/20190218/967d3cc298ccfd2469ca48bb905966c6/1550493813/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第18集
-https://cn3.sxylcy.cc/hls/20190218/3de5ee198af2efafe53162fe8853b929/1550492319/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第19集
-https://cn3.sxylcy.cc/hls/20190225/95ac3f92394f789263e961cb95cd88ea/1551101735/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第20集
-https://cn3.sxylcy.cc/hls/20190225/6c232a1cb66a801b31bc759143830703/1551102154/index.m3u8
-#EXTINF:-1,group-title=“怒晴湘西” ,第21集
-https://cn3.sxylcy.cc/hls/20190225/844f63deb2117794357b7040d54e2db2/1551102388/index.m3u8
 
 
-#EXTINF:-1 ,group-title=“清平乐” ,第1集
-http://youku.cdn2-okzy.com/20200407/8795_8e0cc47d/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第2集
-http://youku.cdn2-okzy.com/20200407/8797_cbed9916/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第3集
-http://youku.cdn2-okzy.com/20200408/8819_2a2b36c7/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第4集
-http://youku.cdn2-okzy.com/20200408/8820_6cabf1bf/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第5集
-http://youku.cdn2-okzy.com/20200409/8836_c11dbdb6/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第6集
-http://youku.cdn2-okzy.com/20200409/8835_dc462a43/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第7集
-http://youku.cdn2-okzy.com/20200410/8850_83eb912f/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第8集
-http://iqiyi.cdn9-okzy.com/20200411/8678_0df1f0f0/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第9集
-http://iqiyi.cdn9-okzy.com/20200412/8810_91198c92/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第10集
-http://iqiyi.cdn9-okzy.com/20200412/8813_51791246/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第11集
-http://youku.cdn2-okzy.com/20200413/8975_bc66ea1b/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第12集
-http://youku.cdn2-okzy.com/20200413/8976_ef13d3b3/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第13集
-http://iqiyi.cdn9-okzy.com/20200414/8867_fc9ed3ab/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第14集
-http://iqiyi.cdn9-okzy.com/20200414/8871_abf35a38/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第15集
-http://iqiyi.cdn9-okzy.com/20200415/8911_4e40ae5d/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“清平乐” ,第16集
-http://iqiyi.cdn9-okzy.com/20200415/8914_9c873c93/1000k/hls/index.m3u8
 
-#EXTINF:-1 ,group-title=“龙岭迷窟” ,第10集
-http://youku.cdn2-okzy.com/20200415/8994_0de609b9/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“龙岭迷窟” ,第11集
-http://youku.cdn2-okzy.com/20200415/8995_02558e00/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“龙岭迷窟” ,第12集
-http://youku.cdn2-okzy.com/20200415/8996_3f315289/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“龙岭迷窟” ,第13集
-http://youku.cdn4-okzy.com/20200415/6314_823bc3ff/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“龙岭迷窟” ,第14集
-http://youku.cdn4-okzy.com/20200415/6317_e0fd0e7f/1000k/hls/index.m3u8
-#EXTINF:-1 ,group-title=“龙岭迷窟” ,第15集
-http://youku.cdn4-okzy.com/20200415/6318_6225b18b/1000k/hls/index.m3u8
+
 
