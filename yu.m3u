@@ -248,100 +248,36 @@ http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 
 
-#EXTINF:-1,group-title=“虎牙电视剧”  ,插翅难逃
-http://aldirect.rtmp.huya.com/huyalive/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1_2500.m3u8
-
-#EXTINF:-1,group-title=“虎牙电视剧”  ,人民的名义
-http://aldirect.rtmp.huya.com/backsrc/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,家有儿女
-http://aldirect.rtmp.huya.com/backsrc/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,好先生
-http://aldirect.rtmp.huya.com/backsrc/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,士兵突击
-http://aldirect.rtmp.huya.com/huyalive/94525224-2579683622-11079656790516826112-2789274566-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,东方不败
-http://aldirect.rtmp.huya.com/huyalive/29141112-2689671100-11552049411496345600-3048959608-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,神话
-http://aldirect.rtmp.huya.com/huyalive/30765679-2497712118-10727591861632892928-3049003126-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,天龙八部
-http://al.rtmp.huya.com/backsrc/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,征服
-http://aldirect.rtmp.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,葛二蛋
-http://aldirect.rtmp.huya.com/huyalive/30765679-2475862720-10633749411785605120-3049003120-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,魔幻手机
-http://aldirect.rtmp.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,龙门镖局
-http://aldirect.rtmp.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,伪装者
-http://al.rtmp.huya.com/backsrc/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,布衣天子
-http://aldirect.rtmp.huya.com/backsrc/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电影”  ,沈腾合辑
-http://aldirect.rtmp.huya.com/backsrc/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电影”  ,黑帮大片
-http://al.rtmp.huya.com/backsrc/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电影”  ,历年贺岁档合
-http://aldirect.rtmp.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电影”  ,国产搞笑
-http://aldirect.rtmp.huya.com/backsrc/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-#EXTINF:-1,group-title=“虎牙电影”  ,莫斯科陷落2
-https://us-4.wl-cdn.com/hls/20200318/4218bbae7d3eb97b9b2df9778a9981bd/index.m3u8
-#EXTINF:-1,group-title=“虎牙电影”  ,盖世俊杰
-https://us-5.wl-cdn.com/hls/20200429/a42cc4c53fde94599c0443a81a962c24/index.m3u8
-#EXTINF:-1,group-title=“虎牙电影”  ,降临
-https://cn1.5311444.com/hls/20181104/f82065456d5b52bb7ff93242e7c0c606/1541313485/index.m3u8
-#EXTINF:-1,group-title=“虎牙电影”  ,撒迦利亚
-https://cn3.download05.com/hls/20180929/70ea41ea1d5b36c84a81371c03e65293/1538194879/index.m3u8
-
-#EXTINF:-1,group-title=“经典咏流传”  ,1
-https://cn7.qxreader.com/hls/20200126/22baa49afc9e3bde87852e606f197f66/1580050705/index.m3u8
-#EXTINF:-1,group-title=“经典咏流传”  ,2
-https://cn7.qxreader.com/hls/20200127/71625dc96f0fc0b87fcc614ed5120d44/1580137040/index.m3u8
-#EXTINF:-1,group-title=“经典咏流传”  ,3
-https://us-3.wl-cdn.com/hls/20200216/19b40f170f8743ece91cfe7702175114/index.m3u8
-#EXTINF:-1,group-title=“经典咏流传”  ,4
-https://us8.wl-cdn.com/hls/20200223/c26db5bec4e440a8f61e3bad77527d1c/index.m3u8
-#EXTINF:-1,group-title=“经典咏流传”  ,5
-https://us8.wl-cdn.com/hls/20200301/2718faa2015b326b8b51849eb75a5ccd/index.m3u8
-
-
-
-#EXTINF:-1,group-title=“蓝光视频”,蓝光影视1台
-http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视2台
-http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视3台
-http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视4台
-http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视5台
-http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 ,group-title=“蓝光视频”,蓝光影视6台
-http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视7台
-http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视8台
-http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视9台
-http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
-#EXTINF:-1 ,group-title=“蓝光视频”,蓝光影视10台
-http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视11台
-http://stream.guihet.com/migu/index.php?id=625542369
-#EXTINF:-1 ,group-title=“蓝光视频”,蓝光影视12台
-http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光动画13台
-http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光动画14台
-http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光动漫15台
-http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
-#EXTINF:-1,group-title=“蓝光视频” ,蓝光影视16台
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-
-
-
-
-
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,三国
+http://tx2play1.douyucdn.cn/live/4523233rmIN3b966.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,士兵突击
+http://tx2play1.douyucdn.cn/live/8877200rCN1ebd0H.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,顺溜
+http://tx2play1.douyucdn.cn/live/8943384rn8Q5YRJX.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,神话
+http://tx2play1.douyucdn.cn/live/5448413rsMNF1SNn.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,孙红雷
+http://tx2play1.douyucdn.cn/live/4836961ra0p7NOh3.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,四大名著
+http://tx2play1.douyucdn.cn/live/1046540r7w6uqr72.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,炊事班的故事
+http://tx2play1.douyucdn.cn/live/4654883rovJQBflL.flv?uuid=
+#EXTINF:-1,group-title=“虎牙电视剧”  ,同居
+https://al.hls.huya.com/src/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1-imgplus_2000.m3u8
+#EXTINF:-1,group-title=“虎牙电视剧”  ,神雕侠侣
+https://aldirect.hls.huya.com/src/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_2000.m3u8
+#EXTINF:-1,group-title=“虎牙电视剧”  ,倚天屠龙记
+https://aldirect.hls.huya.com/src/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_2000.m3u8
+#EXTINF:-1,group-title=“虎牙电视剧”  ,新水浒传
+https://tx.hls.huya.com/src/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1_2000.m3u8
+#EXTINF:-1,group-title=“虎牙电视剧”  ,特种兵
+https://al.hls.huya.com/src/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1-imgplus_2000.m3u8
+#EXTINF:-1,group-title=“虎牙电视剧”  ，楚汉传奇
+https://al.hls.huya.com/src/1250011-1250011-5368756364640256-2789253854-10057-A-0-1_2000.m3u8
+#EXTINF:-1,group-title=“虎牙电视剧”  ,神雕 刘亦菲
+https://tx.hls.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1-imgplus_2000.m3u8
+#EXTINF:-1,group-title=“虎牙电视剧”  ,屌丝男士
+https://al.hls.huya.com/src/1250011-1250011-5368756364640256-2789274540-10057-A-0-1_2000.m3u8
+#EXTINF:-1,group-title=“虎牙电视剧”  ,花千骨
+https://al.hls.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1_2000.m3u8
 
