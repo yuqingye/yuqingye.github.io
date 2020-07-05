@@ -241,10 +241,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8
 #EXTINF:-1 ,group-title=“卫视”,内蒙古卫视
 http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8
 #EXTINF:-1 ,group-title=“CCTV”,凤凰中文 HD
-
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 ,group-title=“CCTV”,凤凰资讯 HD
-
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 
 
@@ -262,22 +260,26 @@ http://tx2play1.douyucdn.cn/live/4836961ra0p7NOh3.flv?uuid=
 http://tx2play1.douyucdn.cn/live/1046540r7w6uqr72.flv?uuid=
 #EXTINF:-1,group-title=“斗鱼电视剧”  ,炊事班的故事
 http://tx2play1.douyucdn.cn/live/4654883rovJQBflL.flv?uuid=
-#EXTINF:-1,group-title=“虎牙电视剧”  ,同居
-https://al.hls.huya.com/src/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1-imgplus_2000.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,神雕侠侣
-https://aldirect.hls.huya.com/src/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_2000.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,倚天屠龙记
-https://aldirect.hls.huya.com/src/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_2000.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,新水浒传
-https://tx.hls.huya.com/src/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1_2000.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,特种兵
-https://al.hls.huya.com/src/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1-imgplus_2000.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ，楚汉传奇
-https://al.hls.huya.com/src/1250011-1250011-5368756364640256-2789253854-10057-A-0-1_2000.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,神雕 刘亦菲
-https://tx.hls.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1-imgplus_2000.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,屌丝男士
-https://al.hls.huya.com/src/1250011-1250011-5368756364640256-2789274540-10057-A-0-1_2000.m3u8
-#EXTINF:-1,group-title=“虎牙电视剧”  ,花千骨
-https://al.hls.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1_2000.m3u8
+#EXTINF:-1,group-title=“斗鱼陪看”  ,【Liz】陪看，科幻、动漫
+http://tx2play1.douyucdn.cn/live/7254536rjfQtDsus.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼陪看”  ,科幻 动作 灾难
+http://tx2play1.douyucdn.cn/live/6537888rMpOkQEwI.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼陪看”  ,科幻 动作 灾难
+http://tx2play1.douyucdn.cn/live/747764rMEY5EXLrl.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼陪看”  ,经典古剧胡歌刘亦菲
+http://tx2play1.douyucdn.cn/live/6733135r8Fh2eLT7.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼陪看”  ,漫威 动作 喜剧 治愈
+http://tx2play1.douyucdn.cn/live/7939432rpRUlOGDJ.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼陪看”  ,段艺璇的轮播间
+http://tx2play1.douyucdn.cn/live/5623644r4soA9u99.flv?uuid=
+#EXTINF:-1,group-title=“方舟系列”  ,1
+http://tx2play1.douyucdn.cn/live/6401115rVCC3a5zM.flv?uuid=
+
+#EXTINF:-1,group-title=“方舟系列”  ,2
+http://tx2play1.douyucdn.cn/live/2340rJa5O9M0AV5G.flv?uuid=
+#EXTINF:-1,group-title=“方舟系列”  ,3
+http://tx2play1.douyucdn.cn/live/7028831rHU6wczZ0.flv?uuid=
+
+
+
 
