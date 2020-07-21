@@ -246,39 +246,32 @@ http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 
 
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,三国
-http://tx2play1.douyucdn.cn/live/4523233rmIN3b966.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,士兵突击
-http://tx2play1.douyucdn.cn/live/8877200rCN1ebd0H.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,顺溜
-http://tx2play1.douyucdn.cn/live/8943384rn8Q5YRJX.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,神话
-http://tx2play1.douyucdn.cn/live/5448413rsMNF1SNn.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,孙红雷
-http://tx2play1.douyucdn.cn/live/4836961ra0p7NOh3.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,四大名著
-http://tx2play1.douyucdn.cn/live/1046540r7w6uqr72.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,炊事班的故事
-http://tx2play1.douyucdn.cn/live/4654883rovJQBflL.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,【Liz】陪看，科幻、动漫
-http://tx2play1.douyucdn.cn/live/7254536rjfQtDsus.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,科幻 动作 灾难
-http://tx2play1.douyucdn.cn/live/6537888rMpOkQEwI.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,科幻 动作 灾难
-http://tx2play1.douyucdn.cn/live/747764rMEY5EXLrl.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,经典古剧胡歌刘亦菲
-http://tx2play1.douyucdn.cn/live/6733135r8Fh2eLT7.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,漫威 动作 喜剧 治愈
-http://tx2play1.douyucdn.cn/live/7939432rpRUlOGDJ.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,段艺璇的轮播间
-http://tx2play1.douyucdn.cn/live/5623644r4soA9u99.flv?uuid=
-#EXTINF:-1,group-title=“方舟系列”  ,1
-http://tx2play1.douyucdn.cn/live/6401115rVCC3a5zM.flv?uuid=
-
-#EXTINF:-1,group-title=“方舟系列”  ,2
-http://tx2play1.douyucdn.cn/live/2340rJa5O9M0AV5G.flv?uuid=
-#EXTINF:-1,group-title=“方舟系列”  ,3
-http://tx2play1.douyucdn.cn/live/7028831rHU6wczZ0.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,1
+http://tx2play1.douyucdn.cn/live/4523233rFJ4mmBNf.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,2
+http://tx2play1.douyucdn.cn/live/8758486rB0oOC2Ht.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,3
+http://tx2play1.douyucdn.cn/live/8824056rxuMNkLc7.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,4
+http://tx2play1.douyucdn.cn/live/7077241rehVfac2d.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,5
+http://tx2play1.douyucdn.cn/live/5448413rNUYal6RT.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,6
+http://tx2play1.douyucdn.cn/live/4836961rtu6VbK1f.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼电视剧”  ,7
+http://tx2play1.douyucdn.cn/live/8371123rHXMf3MkV.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼陪看”  ,1
+http://tx2play1.douyucdn.cn/live/218859rMWyegOHln.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼陪看”  ,2
+http://tx2play1.douyucdn.cn/live/5581257rF32bXdQs.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼陪看”  ,3
+http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼陪看”  ,4
+http://tx2play1.douyucdn.cn/live/8880237rFL01C9zE.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼陪看”  ,5
+http://tx2play1.douyucdn.cn/live/8942246rAdZtdO9o.flv?uuid=
+#EXTINF:-1,group-title=“斗鱼陪看”  ,6
+http://tx2play1.douyucdn.cn/live/4505431rc9Jbnl88.flv?uuid=
 
 
 
