@@ -245,34 +245,9 @@ http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 ,group-title=“CCTV”,凤凰资讯 HD
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 
-
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,1
-http://tx2play1.douyucdn.cn/live/4523233rFJ4mmBNf.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,2
-http://tx2play1.douyucdn.cn/live/8758486rB0oOC2Ht.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,3
-http://tx2play1.douyucdn.cn/live/8824056rxuMNkLc7.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,4
-http://tx2play1.douyucdn.cn/live/7077241rehVfac2d.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,5
-http://tx2play1.douyucdn.cn/live/5448413rNUYal6RT.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,6
-http://tx2play1.douyucdn.cn/live/4836961rtu6VbK1f.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼电视剧”  ,7
-http://tx2play1.douyucdn.cn/live/8371123rHXMf3MkV.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,1
-http://tx2play1.douyucdn.cn/live/218859rMWyegOHln.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,2
-http://tx2play1.douyucdn.cn/live/5581257rF32bXdQs.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,3
-http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,4
-http://tx2play1.douyucdn.cn/live/8880237rFL01C9zE.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,5
-http://tx2play1.douyucdn.cn/live/8942246rAdZtdO9o.flv?uuid=
-#EXTINF:-1,group-title=“斗鱼陪看”  ,6
-http://tx2play1.douyucdn.cn/live/4505431rc9Jbnl88.flv?uuid=
-
-
+#EXTINF:-1,group-title=“虎牙”  ,【沈腾合集】笑出褶子了
+http://bd.hls.huya.com/src/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1-imgplus.m3u8?wsTime
+#EXTINF:-1,group-title=“虎牙”  ,陈翔六点半
+http://bd.hls.huya.com/src/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1-imgplus.m3u8?wsTime
 
 
