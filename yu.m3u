@@ -1,139 +1,84 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,group-title=“CCTV备用” ,CCTV-1蓝光 
+#EXTINF:-1 ,group-title=“CCTV” ,CCTV-1蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-2蓝光
+#EXTINF:-1 ,group-title=“CCTV”,CCTV-2蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-3蓝光 
+#EXTINF:-1 ,group-title=“CCTV”,CCTV-3蓝光 
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用” ,CCTV-4蓝光 
+#EXTINF:-1,group-title=“CCTV” ,CCTV-4蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用” ,CCTV-5+蓝光 
+#EXTINF:-1,group-title=“CCTV”, CCTV-5蓝光
+http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
+#EXTINF:-1,group-title=“CCTV” ,CCTV-5+蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-6蓝光 
+#EXTINF:-1 ,group-title=“CCTV”,CCTV-6蓝光 
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-7蓝光 
+#EXTINF:-1 ,group-title=“CCTV”,CCTV-7蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用” ,CCTV-8蓝光 
+#EXTINF:-1,group-title=“CCTV” ,CCTV-8蓝光 
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用”,CCTV-9蓝光 
+#EXTINF:-1,group-title=“CCTV”,CCTV-9蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-10蓝光 
+#EXTINF:-1 ,group-title=“CCTV”,CCTV-10蓝光 
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+#EXTINF:-1,group-title=“CCTV” ,CCTV-11蓝光 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV”,CCTV-12蓝光 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+#EXTINF:-1,group-title=“CCTV”, CCTV-13高清
+http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
+#EXTINF:-1 ,group-title=“CCTV”,CCTV-14蓝光 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV”,CCTV-15蓝光 
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV”,CCTV-17蓝光 
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+
+#EXTINF:-1,group-title=“CCTV” ,纯享4K频道 
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-1蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-2蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-3蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225807/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-4蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225808/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-5蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225809/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-5蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225810/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-7蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225811/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-8蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-19蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/1.m3u8
 #EXTINF:-1 ,group-title=“CCTV备用”,CCTV-10蓝光 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用” ,CCTV-11蓝光 
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 #EXTINF:-1 ,group-title=“CCTV备用”,CCTV-11蓝光 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-12蓝光 
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-13蓝光 
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-14蓝光 
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-15蓝光 
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+
 #EXTINF:-1,group-title=“CCTV备用” ,CCTV-15蓝光 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-17蓝光 
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1,group-title=“CCTV备用” ,CCTV-17蓝光 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用” ,纯享4K频道 
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 
 
-#EXTINF:-1,group-title=“CCTV备用2”,CCTV-1蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-1蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2”, CCTV-2蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-2蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2” , CCTV-3蓝光
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-3蓝光
-http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
-#EXTINF:-1,group-title=“CCTV备用2”, CCTV-4蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-4蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2”, CCTV-5蓝光
-http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-5蓝光
-http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
-#EXTINF:-1,group-title=“CCTV备用2”, CCTV-5+蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-5+蓝光
-http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2”, CCTV-6蓝光
-http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-6蓝光
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2”, CCTV-7蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-7蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2” , CCTV-8蓝光
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-8蓝光
-http://39.135.15.70:6610/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,group-title=“CCTV备用2” , CCTV-9蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-9蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2” , CCTV-10蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-10蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2” , CCTV-11蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-11蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2” , CCTV-12蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-12蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2” , CCTV-13蓝光
-http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-13高清
-http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
-#EXTINF:-1,group-title=“CCTV备用2” , CCTV-14蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-14蓝光
-http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1,group-title=“CCTV备用2” , CCTV-15蓝光
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-15蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2” , CCTV-17蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-17蓝光
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2” , CCTV-4K蓝码
-http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用3”, CCTV-4K蓝码
-http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
 
-#EXTINF:-1,group-title=“CCTV备用2” , 纯享4K频道
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2”, 百事4K频道
-http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1,group-title=“CCTV备用2” , 美丽中国4K
-https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
-#EXTINF:-1,group-title=“CCTV备用2”, 凤凰卫视资讯台
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1,group-title=“CCTV备用2”, 凤凰卫视资讯台
+#EXTINF:-1,group-title=“凤凰卫视”, 凤凰卫视资讯台
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2”, 凤凰卫视中文台
+#EXTINF:-1,group-title=“凤凰卫视”, 凤凰卫视中文台
 http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1,group-title=“CCTV备用2”, 凤凰卫视中文台
+#EXTINF:-1,group-title=“凤凰卫视”, 凤凰卫视中文台
 http://117.169.120.138:8080/live/fhchinese/index.m3u8
-
-
+#EXTINF:-1 ,group-title=“凤凰卫视”,凤凰中文 HD
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 ,group-title=“凤凰卫视”,凤凰资讯 HD
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 
 
 
@@ -240,10 +185,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225849/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8
 #EXTINF:-1 ,group-title=“卫视”,内蒙古卫视
 http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8
-#EXTINF:-1 ,group-title=“CCTV”,凤凰中文 HD
-http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 ,group-title=“CCTV”,凤凰资讯 HD
-http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+
 
 #EXTINF:-1,group-title=“虎牙”  ,【沈腾合集】笑出褶子了
 http://bd.hls.huya.com/src/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1-imgplus.m3u8?wsTime
