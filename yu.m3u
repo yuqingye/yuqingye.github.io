@@ -369,4 +369,62 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 
 
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-1HD
+http://cbnlive.cbchot.com/live/yt_cctv1_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-2HD    
+http://cbnlive.cbchot.com/live/yt_cctv2_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-3HD    
+http://cbnlive.cbchot.com/live/yt_cctv3_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-4HD    
+http://cbnlive.cbchot.com/live/yt_cctv4zhongwenguoji_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-5HD    
+http://cbnlive.cbchot.com/live/ty_cctv5_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV5+HD    
+http://cbnlive.cbchot.com/live/ty_cctv5+_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-6HD    
+http://cbnlive.cbchot.com/live/yt_cctv6_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-7HD    
+http://cbnlive.cbchot.com/live/yt_cctv7_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-8HD    
+http://cbnlive.cbchot.com/live/ty_cctv8_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-9HD    
+http://cbnlive.cbchot.com/live/yt_cctv9_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-10HD    
+http://cbnlive.cbchot.com/live/yt_cctv10_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-12HD    
+http://cbnlive.cbchot.com/live/yt_cctv12_h_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-14HD    
+http://cbnlive.cbchot.com/live/yt_cctv14_h_1.m3u8?123
 
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-1    
+http://cbnlive.cbchot.com/live/yt_cctv1_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-2
+http://cbnlive.cbchot.com/live/yt_cctv2_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-3    
+http://cbnlive.cbchot.com/live/yt_cctv3_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-4    
+http://cbnlive.cbchot.com/live/yt_cctv4_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-5    
+http://cbnlive.cbchot.com/live/yt_cctv5_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-5+    
+http://cbnlive.cbchot.com/live/ty_cctv5)l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-6    
+http://cbnlive.cbchot.com/live/yt_cctv6_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-7    
+http://cbnlive.cbchot.com/live/yt_cctv7_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-8    
+http://cbnlive.cbchot.com/live/yt_cctv8_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-9    
+http://cbnlive.cbchot.com/live/yt_cctv9_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-10    
+http://cbnlive.cbchot.com/live/yt_cctv10_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-11    
+http://cbnlive.cbchot.com/live/ch105_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-12    
+http://cbnlive.cbchot.com/live/yt_cctv12_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-13    
+http://cbnlive.cbchot.com/live/ch114_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-14    
+http://cbnlive.cbchot.com/live/yt_cctv14_l_1.m3u8?123
+#EXTINF:-1,group-title=“CCTV广电源” ,CCTV-15    
+http://cbnlive.cbchot.com/live/ch003_1.m3u8?123
