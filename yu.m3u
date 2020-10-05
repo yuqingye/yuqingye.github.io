@@ -35,9 +35,6 @@ http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 http://111.13.42.46/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8
 #EXTINF:-1, group-title =“CCTV” ,CCTV17 4M1080
 http://221.179.136.140/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-
-
-
 #EXTINF:-1, group-title =“CCTV源2” ,CCTV1 4M1080
 http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 #EXTINF:-1, group-title =“CCTV源2” ,CCTV1 8M1080
@@ -74,10 +71,6 @@ http://221.179.136.146/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m
 http://221.179.136.140/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 #EXTINF:-1, group-title =“CCTV源2” ,CCTV17 8M1080
 http://221.179.136.143/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8
-
-
-
-
 #EXTINF:-1 ,group-title=“CCTV备用”,CCTV-1蓝光 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 ,group-title=“CCTV备用”,CCTV-2蓝光
@@ -112,8 +105,6 @@ http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1,group-title=“CCTV备用” ,CCTV-17蓝光 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
-
-
 #EXTINF:-1,group-title=“CCTV备用2” ,CCTV1 1080
 http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:-1,group-title=“CCTV备用2” ,CCTV2 540
@@ -144,7 +135,6 @@ http://140.207.241.2:8080/live/program/live/cctvxw/1300000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
 #EXTINF:-1,group-title=“CCTV备用2” ,CCTV15 540
 http://140.207.241.2:8080/live/program/live/cctvyy/1300000/mnf.m3u8
-
 #EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
 http://111.13.42.11/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
 #EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
@@ -189,8 +179,6 @@ http://111.13.42.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
 http://221.179.136.142/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
 #EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
 http://221.179.136.141/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
-
-
 #EXTINF:-1,group-title=“New” ,New中国功夫
 http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
 #EXTINF:-1,group-title=“New” ,New炫武未来
