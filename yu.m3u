@@ -169,6 +169,37 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 
 
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV1 1080
+http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV2 540
+http://140.207.241.2:8080/live/program/live/cctv2/1300000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV3 1080
+http://140.207.241.2:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV4 540
+http://140.207.241.2:8080/live/program/live/cctv4/1300000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV5 1080
+http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV5+ 1080
+http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV6 1080
+http://140.207.241.2:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV7 540
+http://140.207.241.2:8080/live/program/live/cctv7/1300000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV8 1080
+http://140.207.241.2:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV10 1080
+http://140.207.241.2:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV11 540
+http://140.207.241.2:8080/live/program/live/cctv11/1300000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV12 540
+http://140.207.241.2:8080/live/program/live/cctv12/1300000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV13 540
+http://140.207.241.2:8080/live/program/live/cctvxw/1300000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV14 1080
+http://140.207.241.2:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“CCTV备用2” ,CCTV15 540
+http://140.207.241.2:8080/live/program/live/cctvyy/1300000/mnf.m3u8
+
 #EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
 http://111.13.42.11/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
 #EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
