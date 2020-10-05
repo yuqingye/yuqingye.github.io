@@ -33,3 +33,39 @@ http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 http://111.13.42.46/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8
 #EXTINF:-1, group-title =“CCTV” ,CCTV17 4M1080,
 http://221.179.136.140/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-1蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-2蓝光
+http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-3蓝光
+http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-4蓝光
+http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-5蓝光
+http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-5+蓝光
+http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-6蓝光
+http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-7蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-8蓝光
+http://39.135.15.70:6610/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-9蓝光
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-10蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-11蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-12蓝光
+http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-13高清
+http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
+#EXTINF:-1 ,group-title=“CCTV备用”,CCTV-14蓝光
+http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+#EXTINF:-1,group-title=“CCTV备用” ,CCTV-15蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1,group-title=“CCTV备用” ,CCTV-17蓝光 
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
+
