@@ -135,99 +135,51 @@ http://140.207.241.2:8080/live/program/live/cctvxw/1300000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
 #EXTINF:-1,group-title=“CCTV备用2” ,CCTV15 540
 http://140.207.241.2:8080/live/program/live/cctvyy/1300000/mnf.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://111.13.42.11/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.148/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.147/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.141/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.136/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://111.13.42.11/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.148/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226381/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.147/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226382/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.139/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226394/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.217.69/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.144/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226396/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://111.13.42.42/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://111.13.42.42/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.147/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.136/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226392/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://111.13.42.11/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.217.76/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.217.69/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.217.76/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://111.13.42.47/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.142/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
-#EXTINF:-1,group-title=“咪咕视频” ,咪咕视频 4M1080
-http://221.179.136.141/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
-#EXTINF:-1,group-title=“New” ,New中国功夫
-http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
-#EXTINF:-1,group-title=“New” ,New炫武未来
-http://112.50.243.8/PLTV/88888888/224/3221226699/1.m3u8
-#EXTINF:-1,group-title=“New” ,New军事评论
-http://112.50.243.8/PLTV/88888888/224/3221225890/1.m3u8
-#EXTINF:-1,group-title=“New” ,New军旅剧场
-http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
-#EXTINF:-1,group-title=“New” ,New精品体育
-http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
-#EXTINF:-1,group-title=“New” ,New精品记录
-http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
-#EXTINF:-1,group-title=“New” ,New精品文剧
-http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
-#EXTINF:-1,group-title=“New” ,New惊悚悬疑
-http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
-#EXTINF:-1,group-title=“New” ,New金牌综艺
-http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
-#EXTINF:-1,group-title=“New” ,New怡伴健康约
-http://112.50.243.8/PLTV/88888888/224/3221225883/1.m3u8
-#EXTINF:-1,group-title=“New” ,New家庭剧场
-http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
-#EXTINF:-1,group-title=“New” ,New古装剧场
-http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
-#EXTINF:-1,group-title=“New” ,New动作电影
-http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
-#EXTINF:-1,group-title=“New” ,New潮妈辣婆
-http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
-#EXTINF:-1,group-title=“New” ,New超级综艺
-http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
-#EXTINF:-1,group-title=“New” ,New超级综艺
-http://112.50.243.8/PLTV/88888888/224/3221225924/1.m3u8
-#EXTINF:-1,group-title=“New” ,New超级体育8M
-http://112.50.243.8/PLTV/88888888/224/3221225925/1.m3u8
-#EXTINF:-1,group-title=“New” ,New超级体育
-http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
-#EXTINF:-1,group-title=“New” ,New超级电影8M
-http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
-#EXTINF:-1,group-title=“New” ,New超级电影
-http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
-#EXTINF:-1,group-title=“New” ,New超级电视剧
-http://112.50.243.8/PLTV/88888888/224/3221225928/1.m3u8
-#EXTINF:-1,group-title=“New” ,New超级电视剧
-http://112.50.243.8/PLTV/88888888/224/3221225806/1.m3u8
-#EXTINF:-1,group-title=“New” ,New武博世界
-http://112.50.243.8/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1,group-title=“New” ,New爱情喜剧
-http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
+#EXTINF:-1,group-title=“NNM” ,NNM卡通剧场 8M1080
+http://hdtv.haust.edu.cn/hls/hls167.m3u8
+#EXTINF:-1,group-title=“NNM” ,NNM卡通剧场 8M1080
+http://hdtv.haust.edu.cn/hls/hls77a30.m3u8
+#EXTINF:-1,group-title=“NNM” ,NNM大众影视 8M1080
+http://hdtv.haust.edu.cn/hls/hls164.m3u8
+#EXTINF:-1,group-title=“NNM” ,NNM大众影视 8M1080
+http://hdtv.haust.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1,group-title=“NNM” ,NNM家庭剧场 8M1080
+http://hdtv.haust.edu.cn/hls/hls165.m3u8
+#EXTINF:-1,group-title=“NNM” ,NNM家庭剧场 8M1080
+http://hdtv.haust.edu.cn/hls/hls75a28.m3u8
+#EXTINF:-1,group-title=“NNM” ,NNM家庭影院 8M1080
+http://hdtv.haust.edu.cn/hls/hls166.m3u8
+#EXTINF:-1,group-title=“NNM” ,NNM家庭影院 8M1080
+http://hdtv.haust.edu.cn/hls/hls75a29.m3u8
+#EXTINF:-1,group-title=“NNM” ,NNM时光剧场 8M1080
+http://hdtv.haust.edu.cn/hls/hls78a48.m3u8
+#EXTINF:-1,group-title=“NNM” ,NNM晴天动画馆 8M1080
+http://hdtv.haust.edu.cn/hls/hls78a47.m3u8
+#EXTINF:-1,group-title=“NNM” ,NNM爱映画 8M1080
+http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
 
+#EXTINF:-1,group-title=“SiTV” ,SiTV新视觉 1080
+http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“SiTV” ,SiTV动漫秀场 1080
+http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“SiTV” ,SiTV游戏风云 1080
+http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“SiTV” ,SiTV劲爆体育 1080
+http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“SiTV” ,SiTV魅力足球 1080
+http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“SiTV” ,SiTV欢笑剧场 1080
+http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“SiTV” ,SiTV极速汽车 1080
+http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“SiTV” ,SiTV生活时尚 1080
+http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“SiTV” ,SiTV全纪实 1080
+http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“SiTV” ,SiTV都市剧场 1080
+http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1,group-title=“SiTV” ,SiTV幸福彩 1080
+http://140.207.241.2:8080/live/program/live/xfchd/4000000/mnf.m3u8
 
 #EXTINF:-1,group-title=“Ihot” ,Ihot院线
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
