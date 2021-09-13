@@ -1,261 +1,102 @@
 #EXTM3U
-#EXTINF:-1, group-title =“CCTV主”,CCTV1 8M1080
-http://39.134.155.133/PLTV/88888888/224/3221225591/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV1 8M1080
-http://39.134.155.133/PLTV/88888888/224/3221225658/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV2 4M1080
-http://39.134.155.135/PLTV/88888888/224/3221225605/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV2 8M1080
-http://39.134.155.153/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV4 4M1080
-http://39.134.155.215/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV5+ 8M1080
-http://39.134.155.145/PLTV/88888888/224/3221225648/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV7 4M1080
-http://39.134.155.143/PLTV/88888888/224/3221225596/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV7 8M1080
-http://39.134.155.203/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV9 4M1080
-http://39.134.155.179/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV9 8M1080
-http://39.134.155.151/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV10 2.5M1080
-http://39.134.155.185/PLTV/88888888/224/3221225600/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV10 8M1080
-http://39.134.155.185/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV11 4M1080
-http://39.134.155.139/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV12 4M1080
-http://39.134.155.157/PLTV/88888888/224/3221225584/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV12 8M1080
-http://39.134.155.147/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV13 4M1080
-http://39.134.155.143/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV14 4M1080
-http://39.134.155.177/PLTV/88888888/224/3221225609/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV14 8M1080
-http://39.134.155.175/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV15 4M1080
-http://39.134.155.217/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1, group-title =“CCTV主”,CCTV17 4M1080
-http://39.134.155.219/PLTV/88888888/224/3221225675/index.m3u8
-
-#EXTINF:-1, group-title =“CCTV”,CCTV1 3.5M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV1 4M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV1 8M1080
-http://39.135.230.69/ott.fj.chinamobile.com/PLTV/88888888/224/3221226995/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV1 8M1080
-http://39.135.230.81/ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV1 8M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV2 4M1080
-http://39.135.230.74/ott.fj.chinamobile.com/PLTV/88888888/224/3221226795/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV2 4M1080
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV2 8M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV2 8M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV4 4M1080
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV4 8M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV5+ 4M1080
-http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV5+ 8M1080
-http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV5+ 8M1080
-http://39.135.230.88/ott.fj.chinamobile.com/PLTV/88888888/224/3221226919/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV7 12M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV7 4M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV7 5.5M1080HEVC
+#EXTINF:-1, group-title =“CCTV主”,CCTV-4K超高清
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV7 8M1080
-http://39.135.230.81/ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV7 8M1080
-http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV9 4M1080
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV9 8M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV9 8M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV10 4M1080
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV10 8M1080
-http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV10 8M1080
-http://39.135.230.68/ott.fj.chinamobile.com/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV10 8M1080
-http://39.135.230.86/ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV11 3.5M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV11 8M1080
-http://39.135.230.89/ott.fj.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV12 2.5M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV12 8M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV12 8M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV13 4M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV13 8M1080
-http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221226985/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV14 4M1080
-http://39.135.230.81/ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV14 8M1080
-http://39.135.230.68/ott.fj.chinamobile.com/PLTV/88888888/224/3221227086/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV14 8M1080
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV15 3.5M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV15 8M1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV17 4M1080
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
-#EXTINF:-1, group-title =“CCTV”,CCTV17 8M1080
-http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-1综合
+http://223.110.241.137:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-2财经
+http://223.110.241.137:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-3综艺
+http://223.110.241.137:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-4国际
+http://223.110.241.137:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-5体育
+http://223.110.241.137:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-5+体育赛事
+http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-6电影
+http://223.110.241.137:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-7国防军事
+http://223.110.241.137:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-8电视剧
+http://223.110.241.137:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-10科教
+http://223.110.241.137:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-11戏曲
+http://223.110.241.137:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/.m3u8
+#EXTINF:-1, group-title =“CCTV主”,CCTV-13新闻
+http://223.110.241.137:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8
 
 
-#EXTINF:-1, group-title =“稳定版”,CCTV-1综合HD
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-2财经
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-3综艺
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-4国际
-http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-5体育
-http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-6高清
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-7军事农业
-http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-8高清
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-9纪录
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-10科教
-http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-11戏曲
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-12社会与法
-http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-13新闻
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-14少儿
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-15音乐
-http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1, group-title =“稳定版”,CCTV-5+体育
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1, group-title =“稳定版”,湖南卫视高清
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,浙江卫视高清
-http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,江苏卫视高清
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1, group-title =“稳定版”,东方卫视高清
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,安徽卫视高清
-http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,安徽卫视
-http://ivi.bupt.edu.cn/hls/ahtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,黑龙江卫视高清
-http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,辽宁卫视高清
-http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,深圳卫视高清
-http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,广东卫视高清
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,广东卫视
-http://ivi.bupt.edu.cn/hls/gdtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,天津卫视高清
-http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,湖北卫视高清
-http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,湖北卫视
-http://ivi.bupt.edu.cn/hls/hbtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,山东卫视高清
-http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,山东卫视
-http://ivi.bupt.edu.cn/hls/sdtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,重庆卫视高清
-http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1, group-title =“稳定版”,深圳卫视
-http://ivi.bupt.edu.cn/hls/sztv.m3u8
-#EXTINF:-1, group-title =“稳定版”,河南卫视
-http://ivi.bupt.edu.cn/hls/hntv.m3u8
-#EXTINF:-1, group-title =“稳定版”,陕西卫视
-http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,吉林卫视
-http://ivi.bupt.edu.cn/hls/jltv.m3u8
-#EXTINF:-1, group-title =“稳定版”,广西卫视
-http://ivi.bupt.edu.cn/hls/gxtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,河北卫视
-http://ivi.bupt.edu.cn/hls/hebtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,西藏卫视
-http://ivi.bupt.edu.cn/hls/xztv.m3u8
-#EXTINF:-1, group-title =“稳定版”,内蒙古卫视
-http://ivi.bupt.edu.cn/hls/nmtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,青海卫视
-http://ivi.bupt.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,四川卫视
-http://ivi.bupt.edu.cn/hls/sctv.m3u8
-#EXTINF:-1, group-title =“稳定版”,江苏卫视
-http://ivi.bupt.edu.cn/hls/jstv.m3u8
-#EXTINF:-1, group-title =“稳定版”,天津卫视
-http://ivi.bupt.edu.cn/hls/tjtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,山西卫视
-http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,辽宁卫视
-http://ivi.bupt.edu.cn/hls/lntv.m3u8
-#EXTINF:-1, group-title =“稳定版”,厦门卫视
-http://ivi.bupt.edu.cn/hls/xmtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,新疆卫视
-http://ivi.bupt.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,东方卫视
-http://ivi.bupt.edu.cn/hls/dftv.m3u8
-#EXTINF:-1, group-title =“稳定版”,黑龙江卫视
-http://ivi.bupt.edu.cn/hls/hljtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,湖南卫视
-http://ivi.bupt.edu.cn/hls/hunantv.m3u8
-#EXTINF:-1, group-title =“稳定版”,云南卫视
-http://ivi.bupt.edu.cn/hls/yntv.m3u8
-#EXTINF:-1, group-title =“稳定版”,江西卫视
-http://ivi.bupt.edu.cn/hls/jxtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,福建东南卫视
-http://ivi.bupt.edu.cn/hls/dntv.m3u8
-#EXTINF:-1, group-title =“稳定版”,浙江卫视
-http://ivi.bupt.edu.cn/hls/zjtv.m3u8
-#EXTINF:-1, group-title =“稳定版”,贵州卫视
-http://ivi.bupt.edu.cn/hls/gztv.m3u8
-#EXTINF:-1, group-title =“稳定版”,甘肃卫视
-http://ivi.bupt.edu.cn/hls/gstv.m3u8 
-
-#EXTINF:-1, group-title =“幼儿”,上海哈哈炫动 3.5M576
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225872/index.m3u8
-#EXTINF:-1, group-title =“幼儿”,上海哈哈炫动 576
-http://39.135.230.83/ott.fj.chinamobile.com/PLTV/88888888/224/3221227020/index.m3u8
-#EXTINF:-1, group-title =“幼儿”,上海纪实人文 576
-http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221227048/index.m3u8
-#EXTINF:-1, group-title =“幼儿”,北京卡酷少儿 4M576
-http://39.135.230.78/ott.fj.chinamobile.com/PLTV/88888888/224/3221225871/index.m3u8
-#EXTINF:-1, group-title =“幼儿”,北京卡酷少儿 576
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226963/index.m3u8
-#EXTINF:-1, group-title =“幼儿”,江苏优漫卡通 4M576
-http://39.135.230.74/ott.fj.chinamobile.com/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:-1, group-title =“幼儿”,广东嘉佳卡通 576
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227024/index.m3u8
-#EXTINF:-1, group-title =“幼儿”,湖南金鹰卡通 576
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226959/index.m3u8
-#EXTINF:-1, group-title =“幼儿”,湖南金鹰卡通 576
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225870/index.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-1综合
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-1综合
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-2财经
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-2财经
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-3综艺
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-4国际
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-5体育
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-5+体育赛事
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-5+体育赛事
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-7国防军事
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-8电视剧
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-9记录
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-10科教
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-11戏曲
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-12社会与法
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-13新闻
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-15音乐
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
+#EXTINF:-1, group-title =“CCTV北京8M”,CCTV-17农业农村
+http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
 
 
+
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-1综合
+http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-2财经
+http://39.135.138.59:18890/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-3综艺
+http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-4国际
+http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-5体育
+http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-5+体育赛事
+http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-6电影
+http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-7国防军事
+http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-8电视剧
+http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-9记录
+http://39.135.138.59:18890/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-10科教
+http://39.135.138.59:18890/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-11戏曲
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-12社会与法
+http://39.135.138.59:18890/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-13新闻
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-14少儿
+http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-15音乐
+http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1, group-title =“CCTV江西宜春8M”,CCTV-17农业农村
+http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8
