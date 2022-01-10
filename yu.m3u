@@ -1,5 +1,40 @@
 #EXTM3U
 
+#EXTINF:-1, group-title =“CCTV”,CCTV-1[4M]FHD
+http://60.255.49.202/live/CCTV-1H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-2[4M]FHD
+http://60.255.49.202/live/CCTV-2H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-3[4M]FHD
+http://60.255.49.202/live/CCTV-3H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-4[4M]FHD
+http://60.255.49.202/live/CCTV-4H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-5[4M]FHD
+http://60.255.49.202/live/CCTV-5H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-5+[4M]FHD
+http://60.255.49.202/live/CCTV-5plusH265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-6[4M]FHD
+http://60.255.49.202/live/CCTV-6H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-7[4M]FHD
+http://60.255.49.202/live/CCTV-7H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-8[4M]FHD
+http://60.255.49.202/live/CCTV-8H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-9[4M]FHD
+http://60.255.49.202/live/CCTV-9H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-10[4M]FHD
+http://60.255.49.202/live/CCTV-10H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-11[4M]FHD
+http://60.255.49.202/live/CCTV-11-H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-12[4M]FHD
+http://60.255.49.202/live/CCTV-12H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-13[4M]FHD
+http://60.255.49.202/live/CCTV-xw_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-14[4M]FHD
+http://60.255.49.202/live/CCTV-14H265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-15[4M]FHD
+http://60.255.49.202/live/CCTV-15-yyH265_4000.m3u8
+#EXTINF:-1, group-title =“CCTV”,CCTV-17[4M]FHD
+http://60.255.49.202/live/CCTV-17_4000.m3u8
+
 #EXTINF:-1, group-title =“CCTV主”,CCTV-1综合
 http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 #EXTINF:-1, group-title =“CCTV主”,CCTV-2财经
