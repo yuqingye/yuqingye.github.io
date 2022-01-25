@@ -1,123 +1,126 @@
 #EXTM3U
 
-#EXTINF:-1, group-title =“CCTV源1”,CCTV1 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV1 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV1 12M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV1 12M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV2 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV2 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1, group-title =“CCTV源1”,CCTV2 12M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV3 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV3 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV3 5M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV3 5M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV4 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV4 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV4 12M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV4 12M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV5 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV5 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV5+ 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV5+ 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV5+ 12M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV5+ 12M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV6 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV6 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV6 5M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV6 5M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV7 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV7 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV8 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV8 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV8 5M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV8 5M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV9 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV9 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV10 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV10 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV12 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV12 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV14 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV14 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV16 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV16 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1, group-title =“CCTV源1”,CCTV17 3M1080,
+#EXTINF:-1, group-title =“CCTV源1”,CCTV17 3M1080
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
 
-#EXTINF:-1, group-title =“CCTV源2”,CCTV1 4M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV1 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV3 4M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV3 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV5 4M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV5 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV5+ 4M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV5+ 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV6 4M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV6 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV7 4M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV7 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV8 4M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV8 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV9 4M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV9 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV12 2.5M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV12 2.5M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV13 4M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV13 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV14 2.5M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV14 2.5M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV16 4M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV16 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV17 4M1080,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV17 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV2 576,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV2 576
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV4 576,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV4 576
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV10 576,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV10 576
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV11 720,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV11 720
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1, group-title =“CCTV源2”,CCTV15 720,
+#EXTINF:-1, group-title =“CCTV源2”,CCTV15 720
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 
 
 
 
-#EXTINF:-1, group-title =“大象直播源”,CCTV1,
+#EXTINF:-1, group-title =“大象直播源”,CCTV1
 http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV2,
+#EXTINF:-1, group-title =“大象直播源”,CCTV2
 http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV3,
+#EXTINF:-1, group-title =“大象直播源”,CCTV3
 http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV4,
+#EXTINF:-1, group-title =“大象直播源”,CCTV4
 http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV5,
+#EXTINF:-1, group-title =“大象直播源”,CCTV5
 http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV6,
+#EXTINF:-1, group-title =“大象直播源”,CCTV6
 http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV7,
+#EXTINF:-1, group-title =“大象直播源”,CCTV7
 http://219.150.217.47:6610/PLTV1/160/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV8,
+#EXTINF:-1, group-title =“大象直播源”,CCTV8
 http://219.150.217.47:6610/PLTV1/180/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV9,
+#EXTINF:-1, group-title =“大象直播源”,CCTV9
 http://219.150.217.47:6610/PLTV1/200/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV10,
+#EXTINF:-1, group-title =“大象直播源”,CCTV10
 http://219.150.217.47:6610/PLTV1/220/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV11,
+#EXTINF:-1, group-title =“大象直播源”,CCTV11
 http://219.150.217.47:6610/PLTV1/240/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV12,
+#EXTINF:-1, group-title =“大象直播源”,CCTV12
 http://219.150.217.47:6610/PLTV1/260/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV13,
+#EXTINF:-1, group-title =“大象直播源”,CCTV13
 http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV14,
+#EXTINF:-1, group-title =“大象直播源”,CCTV14
 http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV15,
+#EXTINF:-1, group-title =“大象直播源”,CCTV15
 http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV17,
+#EXTINF:-1, group-title =“大象直播源”,CCTV17
 http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV5 ,
+#EXTINF:-1, group-title =“大象直播源”,CCTV5 
 http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
+
+
+
 
