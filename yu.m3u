@@ -86,44 +86,24 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 
 
 
-#EXTINF:-1, group-title =“大象直播源”,CCTV1
-http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV2
-http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV3
-http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV4
-http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV5
-http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV6
-http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV7
-http://219.150.217.47:6610/PLTV1/160/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV8
-http://219.150.217.47:6610/PLTV1/180/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV9
-http://219.150.217.47:6610/PLTV1/200/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV10
-http://219.150.217.47:6610/PLTV1/220/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV11
-http://219.150.217.47:6610/PLTV1/240/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV12
-http://219.150.217.47:6610/PLTV1/260/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV13
-http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV14
-http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV15
-http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV17
-http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1, group-title =“大象直播源”,CCTV5 
-http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
-
-
-#EXTINF:-1, group-title =“人世间”,第一集
+#EXTINF:-1, group-title =“人世间”,第1集
 https://new.iskcd.com/20220129/Wj5KBWfP/1100kb/hls/index.m3u8
-#EXTINF:-1, group-title =“人世间”,第一集
-https://cache.m3u8.shenglinyiyang.cn/duoduo/20220401/eaa97195ace5d6bae8b4777ba3edf0ba.m3u8?st=GqyFfdR_OAavrO2Dbr--Uw&e=1648811166
+#EXTINF:-1, group-title =“人世间”,第2集
+https://pps.sd-play.com/20220128/WFY7BIcc/1200kb/hls/index.m3u8
+#EXTINF:-1, group-title =“人世间”,第3集
+https://pps.sd-play.com/20220129/wjevlNfq/1200kb/hls/index.m3u8
+#EXTINF:-1, group-title =“人世间”,第4集
+https://pps.sd-play.com/20220129/sKFqHnKd/1200kb/hls/index.m3u8
+#EXTINF:-1, group-title =“人世间”,第5集
+https://pps.sd-play.com/20220130/RxDKmv03/1200kb/hls/index.m3u8
+#EXTINF:-1, group-title =“人世间”,第6集
+https://pps.sd-play.com/20220130/isOa5fy5/1200kb/hls/index.m3u8
+#EXTINF:-1, group-title =“人世间”,第7集
+https://pps.sd-play.com/20220201/7lIr5JJt/1200kb/hls/index.m3u8
+#EXTINF:-1, group-title =“人世间”,第8集
+https://pps.sd-play.com/20220201/SPOhCiag/1200kb/hls/index.m3u8
+#EXTINF:-1, group-title =“人世间”,第9集
+https://pps.sd-play.com/20220202/DmaXiWnk/1200kb/hls/index.m3u8
+#EXTINF:-1, group-title =“人世间”,第10集
+https://pps.sd-play.com/20220202/8HtwOHul/1200kb/hls/index.m3u8
 
