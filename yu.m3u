@@ -124,5 +124,7 @@ http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1&servicetype=1&IASHtt
 
 #EXTINF:-1, group-title =“人世间”,第一集
 https://new.iskcd.com/20220129/Wj5KBWfP/1100kb/hls/index.m3u8
+#EXTINF:-1, group-title =“人世间”,第一集
+https://cache.m3u8.shenglinyiyang.cn/duoduo/20220401/eaa97195ace5d6bae8b4777ba3edf0ba.m3u8?st=9dNDrWvgrG10up3pwQOJpw&e=1648810895
 
 
