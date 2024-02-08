@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",春晚线路🐉👉
+#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",🐉春晚线路🐉👉
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",🐉春晚线路🐉👉
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -9,9 +9,9 @@ http://42.176.185.28:9901/tsfile/live/1022_1.m3u8
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 #EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",🐉春晚线路🐉👉
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",🐉春晚线路v👉全网
+#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",🐉春晚线路🐉👉全网
 http://120.7.30.152:2024/live/CCTV1高清/index.m3u8
-#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",🐉春晚线路v👉移动
+#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",🐉春晚线路🐉👉移动
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 #EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",🐉春晚线路🐉👉电信
 http://219.147.200.9:18080/newlive/live/hls/1/live.m3u8
