@@ -1,40 +1,37 @@
 #EXTM3U 
-#EXTINF:-1, group-title="央视",CCTV1 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1,group-title="央视",CCTV2 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-#EXTINF:-1, group-title="央视",CCTV3 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-#EXTINF:-1,group-title="央视",CCTV4 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-#EXTINF:-1,group-title="央视",CCTV5 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-#EXTINF:-1,group-title="央视",CCTV5+ 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-#EXTINF:-1,group-title="央视",CCTV6 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-#EXTINF:-1,group-title="央视",CCTV7 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-#EXTINF:-1, group-title="央视",CCTV8 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-#EXTINF:-1,group-title="央视",CCTV9 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-#EXTINF:-1, group-title="央视",CCTV10 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-#EXTINF:-1,group-title="央视",CCTV11 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-#EXTINF:-1, group-title="央视",CCTV12 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-#EXTINF:-1,group-title="央视",CCTV13 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-#EXTINF:-1,group-title="央视",CCTV14 8M
-https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-#EXTINF:-1,group-title="央视",CCTV15 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-#EXTINF:-1,group-title="央视",CCTV16 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-#EXTINF:-1,group-title="央视",CCTV17 8M
-https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1 ,CCTV-1 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1,CCTV-2 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 ,CCTV-4 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1,CCTV-4 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 ,CCTV-4 America (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 ,CCTV-4 Asia (480p)
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 ,CCTV-5 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 ,CCTV-6电影 (1080p)
+http://1.85.0.62:808/hls/6/index.m3u8
+#EXTINF:-1 ,CCTV-7 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1,CCTV-8 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 ,CCTV-9 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 ,CCTV-10 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 ,CCTV-13 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 ,CCTV-14 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1,CCTV-15音乐
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1,CCTV-16 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+
 #EXTINF:-1 ,group-title="央视1",CCTV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 #EXTINF:-1, group-title="央视1",CCTV-2
